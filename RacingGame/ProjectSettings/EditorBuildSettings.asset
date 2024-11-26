@@ -15,8 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/MapSelection.unity
     guid: d93fbda03d8c04ea1a69f6f006923154
   - enabled: 1
-    path: Assets/Scenes/Track Test.unity
+    path: Assets/Scenes/SunnyStraights.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/ChicaneChaos.unity
+    guid: 3c385eac7b7474189974119c0b5ee883
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

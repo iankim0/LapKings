@@ -19,6 +19,7 @@ GameObject:
   - component: {fileID: 5711219781172466653}
   - component: {fileID: 7236092352693597687}
   - component: {fileID: 6450924936680889371}
+  - component: {fileID: -1265566191375879042}
   m_Layer: 0
   m_Name: Car
   m_TagString: Car
@@ -451,6 +452,25 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &-1265566191375879042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413659577876593298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bc1115de9ba4e5292e150796449d24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CarSpriteRenderer: {fileID: -5310085668075601126}
+  Oran: {fileID: -1364312563027133123, guid: 921456c1b6a3c478eb1b9df2f350e330, type: 3}
+  Silv: {fileID: -3925210834386495562, guid: 52efe97be1b7d476488f898b7a36890d, type: 3}
+  Red: {fileID: 3481345016061304782, guid: 1336b20aff1214e19bdd66ae23bffb55, type: 3}
+  RB: {fileID: -1963805634624352468, guid: b1841e984067f4f13a6b8977f99fd370, type: 3}
+  Pink: {fileID: -8245012183058367903, guid: 5b01f5dfb221043f196ac94e265b6393, type: 3}
+  Blu: {fileID: 1849568841055610448, guid: f9a79c1c38f8b4ab0964618701c17b1f, type: 3}
 --- !u!1 &1287515208986326211
 GameObject:
   m_ObjectHideFlags: 0
