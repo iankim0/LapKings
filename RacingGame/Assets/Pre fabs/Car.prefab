@@ -141,10 +141,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   acceleration: 3
   turnSpeed: 3
-  drift: 0.95
-  minSteer: 3
+  drift: 0.35
+  minSteer: 2
   topSpeed: 5.5
-  accelInput: 0
+  accelInput: 1.99
 --- !u!114 &2336997845181348062
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -217,8 +217,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   leftTireTrail: {fileID: 7255844518196025530}
   rightTireTrail: {fileID: 6844247156230544282}
-  driftThreshold: 0.5
-  brakeForceThreshold: 0.1
+  driftThreshold: 0.02
+  brakeForceThreshold: 0.08
 --- !u!114 &1159900833152618971
 MonoBehaviour:
   m_ObjectHideFlags: 0
